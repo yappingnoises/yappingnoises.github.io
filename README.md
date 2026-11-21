@@ -12,11 +12,11 @@ I am an Electronics Engineering undergraduate focusing on Digital Design, RTL, V
 #  Projects
 
 ### 1. Tiny Tapeout — 8-Bit General-Purpose Processor (TGTTOS)
-*Open-Silicon ASIC Tapeout | Verilog · cocoTB · LibreLane · GF180mcu*
+*Open-Silicon ASIC Tapeout | Verilog · cocotb · LibreLane · GF180mcu*
 * Designed and verified a custom 8-bit instruction, 16-bit accumulator general-purpose processor targeting an open-source silicon shuttle via Tiny Tapeout.
 * Executed RTL-to-GDSII hardening using open-source EDA flows and verified functionality across RTL and gate-level simulations using assertion-based testbenches.
 * Taped out a chip successfully. 
-*  [Repository](https://github.com/yappingnoises/TCPU16_LNMIIT_01_GF) ·[GDS](https://toshis.codes/TCPU16_LNMIIT_01_GF/)· [Tiny Tapeout Tile](https://app.tinytapeout.com/projects/6336) 
+*  [Repository](https://github.com/yappingnoises/TCPU16_LNMIIT_01_GF) · [GDS](https://toshis.codes/TCPU16_LNMIIT_01_GF/) · [Tiny Tapeout Tile](https://app.tinytapeout.com/projects/6336) 
 
 ### 2. RISC-V based Image processing hardware accelerator
 *FPGA System-on-Chip | VHDL/Verilog  · Xilinx Artix-7 (Nexys 4 DDR)* · Wishbone
@@ -47,7 +47,7 @@ I am an Electronics Engineering undergraduate focusing on Digital Design, RTL, V
 ---
 
 ## Experience
-- **SoC Design Intern — VLSI System Design Pvt. Ltd.  *(May 2026- Jul 2026)*
+- **SoC Design Intern — VLSI System Design Pvt. Ltd.  *(May 2026- Jul 2026)***
 	* Designed custom memory-mapped IO IP core (GPIO controller) in Verilog HDL.
 	*  Integrated peripherals into a 32-bit RISC-V SoC, configuring address decode logic and resolving bus collisions.
 	* Wrote bare-metal C firmware drivers and validated behavior via RTL simulations and FPGA deployment.
