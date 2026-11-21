@@ -25,17 +25,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.2.2'
-          bundler-cache: true
-
-      - name: Build Jekyll site
-        run: |
-          python3 -m pip install --upgrade pip
-          python3 -m pip install jupyter
-          JEKYLL_ENV=production bundle exec jekyll build --destination _site
+      - name: Build with official al-folio image
+        run: docker run --rm -v "$PWD:/work" -w /work amirpourmand/al-folio:latest bundle exec jekyll build --destination _site
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
