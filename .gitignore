@@ -2,3 +2,4 @@ _site/
 .jekyll-cache/
 .tweet-cache/
 .sass-cache/
+.github/
