@@ -1,6 +1,4 @@
-
-
-
+# Hi, I'm Toshit — otherwise known as Toshi.
 I am an Electronics Engineering undergraduate focusing on Digital Design, RTL, Verification, FPGA Prototyping, and Open-Silicon ASIC Design. Recently, I have been working on open-source silicon flows and completed a tapeout through Tiny Tapeout.
 
 **Focus Areas:** Computer Architecture · ASIC Design · Digital VLSI · Design Verification · RTL Design 
