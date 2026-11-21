@@ -1,3 +1,4 @@
+
 # Hi, I'm Toshit — though most people call me Toshi.
 
 I am an Electronics Engineering undergraduate focusing on Digital Design, RTL, Verification, FPGA Prototyping, and Open-Silicon ASIC Design. Recently, I have been working on open-source silicon flows and completed a tapeout through Tiny Tapeout.
@@ -16,7 +17,7 @@ I am an Electronics Engineering undergraduate focusing on Digital Design, RTL, V
 * Designed and verified a custom 8-bit instruction, 16-bit accumulator general-purpose processor targeting an open-source silicon shuttle via Tiny Tapeout.
 * Executed RTL-to-GDSII hardening using open-source EDA flows and verified functionality across RTL and gate-level simulations using assertion-based testbenches.
 * Taped out a chip successfully. 
-*  [Repository](https://github.com/yappingnoises/TCPU16_LNMIIT_01_GF) · [Tiny Tapeout Tile](https://app.tinytapeout.com/projects/6336)
+*  [Repository](https://github.com/yappingnoises/TCPU16_LNMIIT_01_GF) ·[GDS](https://toshis.codes/TCPU16_LNMIIT_01_GF/)· [Tiny Tapeout Tile](https://app.tinytapeout.com/projects/6336)
 
 ### 2. RISC-V based Image processing hardware accelerator
 *FPGA System-on-Chip | VHDL/Verilog  · Xilinx Artix-7 (Nexys 4 DDR)* · Wishbone
@@ -63,4 +64,4 @@ I am an Electronics Engineering undergraduate focusing on Digital Design, RTL, V
 
 **B.Tech in Electronics and Communication Engineering**  
 The LNM Institute of Information Technology (LNMIIT), Jaipur *(2023 – 2027)*  
-***Relevant Coursework**:* Computer Architecture, Digital System Design, Digital Circuits and Systems, Fundamentals of VLSI, Microprocessors & Microcontrollers, Analog Electronics, Design for Testing. 
+***Relevant Coursework**:* Computer Architecture, Digital System Design, Digital Circuits and Systems, Fundamentals of VLSI, Microprocessors & Microcontrollers, Analog Electronics, Design for Testing.
